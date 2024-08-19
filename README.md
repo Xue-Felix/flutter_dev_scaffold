@@ -1,16 +1,10 @@
 # flutter_dev_scaffold
 
-A new Flutter project.
+一个 Flutter 开箱即用的开发脚手架，基于[Getx_Scaffold](https://github.com/Kxmrg/flutter_getx_scaffold)搭建的MVC架构开发模板。
 
-## Getting Started
+## 说明
 
-This project is a starting point for a Flutter application.
+- bundleId: com.example.flutter_dev_scaffold
+- App名称: Flutter_Dev_Scaffold
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> 可以通过 [rename cli](https://pub.dev/packages/rename) 统一修改bundleId
