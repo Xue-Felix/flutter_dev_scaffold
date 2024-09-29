@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:getx_scaffold/getx_scaffold.dart';
 import 'package:persistent_bottom_nav_bar_v2/persistent_bottom_nav_bar_v2.dart';
-import 'package:easy_record_app/pages/index.dart';
+import 'package:flutter_dev_scaffold/pages/index.dart';
 
 class CustomNavBar extends StatelessWidget {
   const CustomNavBar({super.key});

@@ -317,6 +317,14 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "0.1.1"
+  go_router:
+    dependency: transitive
+    description:
+      name: go_router
+      sha256: "5cf5fdcf853b0629deb35891c7af643be900c3dcaed7489009f9e7dbcfe55ab6"
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "14.2.8"
   html:
     dependency: transitive
     description:
@@ -413,6 +421,14 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "4.0.0"
+  logging:
+    dependency: transitive
+    description:
+      name: logging
+      sha256: "623a88c9594aa774443aa3eb2d41807a48486b5613e67599fb4c41c0ad47c340"
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "1.2.0"
   lottie:
     dependency: transitive
     description:
@@ -589,6 +605,14 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "0.2.1"
+  persistent_bottom_nav_bar_v2:
+    dependency: "direct main"
+    description:
+      name: persistent_bottom_nav_bar_v2
+      sha256: f5cc01ed36d6f93ecb3b8b64eaaa5b41618c6ac75c54e8beb1d3486cfc6d8547
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "5.3.0"
   petitparser:
     dependency: transitive
     description:
@@ -690,6 +714,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.99"
+  sliver_app_bar_builder:
+    dependency: "direct main"
+    description:
+      name: sliver_app_bar_builder
+      sha256: "6fcf3d2948db8d50978f3921dfc34cf0aa14c791f8bc02bf8a7ea12fcae771b1"
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "1.1.0"
   source_span:
     dependency: transitive
     description:

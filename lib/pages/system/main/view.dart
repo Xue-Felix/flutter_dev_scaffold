@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_dev_scaffold/common/index.dart';
+import 'package:getx_scaffold/getx_scaffold.dart';
 import 'index.dart';
 
 class MainPage extends StatefulWidget {
