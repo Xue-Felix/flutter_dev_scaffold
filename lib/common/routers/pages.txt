@@ -1,0 +1,6 @@
+
+      
+      GetPage(
+        name: RouteNames.easy_record_app,
+        page: () => const easy_record_appPage(),
+      ),

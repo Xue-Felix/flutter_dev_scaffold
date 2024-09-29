@@ -1,0 +1,2 @@
+static const easy_record_appDetail = '/easy_record_app_detail';
+static const easy_record_app = '/easy_record_app';
